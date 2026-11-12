@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 1.1", "Hoofdstuk 1.1\Hoofdstuk 1.1.csproj", "{3336F39B-C2B3-44AC-9981-64A798907B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 2.2", "Hoofdstuk 2.2\Hoofdstuk 2.2.csproj", "{EAE98CEC-1446-40B8-9295-92C079C633B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 2.3", "Hoofdstuk 2.3\Hoofdstuk 2.3.csproj", "{0589CF72-A710-455F-B4B1-A58CD84E202F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3336F39B-C2B3-44AC-9981-64A798907B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3336F39B-C2B3-44AC-9981-64A798907B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3336F39B-C2B3-44AC-9981-64A798907B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3336F39B-C2B3-44AC-9981-64A798907B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE98CEC-1446-40B8-9295-92C079C633B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE98CEC-1446-40B8-9295-92C079C633B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE98CEC-1446-40B8-9295-92C079C633B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE98CEC-1446-40B8-9295-92C079C633B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0589CF72-A710-455F-B4B1-A58CD84E202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0589CF72-A710-455F-B4B1-A58CD84E202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0589CF72-A710-455F-B4B1-A58CD84E202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0589CF72-A710-455F-B4B1-A58CD84E202F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
