@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 2.3", "Hoofdstuk 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 3.4", "Hoofdstuk 3.4\Hoofdstuk 3.4.csproj", "{2FF5BD20-8F3B-490D-8E6C-B90C5DD9A08F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoofdstuk 4.5", "Hoofdstuk 4.5\Hoofdstuk 4.5.csproj", "{4B636067-85F5-477B-A610-9D547E4AABD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2FF5BD20-8F3B-490D-8E6C-B90C5DD9A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF5BD20-8F3B-490D-8E6C-B90C5DD9A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF5BD20-8F3B-490D-8E6C-B90C5DD9A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B636067-85F5-477B-A610-9D547E4AABD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B636067-85F5-477B-A610-9D547E4AABD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B636067-85F5-477B-A610-9D547E4AABD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B636067-85F5-477B-A610-9D547E4AABD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
