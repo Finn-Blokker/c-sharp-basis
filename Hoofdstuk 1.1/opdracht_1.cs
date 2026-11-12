@@ -1,4 +1,4 @@
-﻿namespace Hoofdstuk_1
+﻿namespace Hoofdstuk_1_1
 {
     internal class Program
     {
