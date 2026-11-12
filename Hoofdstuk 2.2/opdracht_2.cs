@@ -11,6 +11,7 @@
                               "4, float \n" +
                               "5, string"
             );
+            Console.ReadLine();
         }
     }
 }

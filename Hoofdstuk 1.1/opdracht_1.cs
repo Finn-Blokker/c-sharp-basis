@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Naam:\t   Jan \nLeeftijd:  20");
+            Console.WriteLine("Naam:\t   Jan \nLeeftijd:  20");
+            Console.ReadLine();
         }
     }
 }
