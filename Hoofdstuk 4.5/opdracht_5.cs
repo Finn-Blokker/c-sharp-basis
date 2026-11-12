@@ -18,7 +18,7 @@ class Program
         hoogte = Console.ReadLine();
 
         resultaat = double.Parse(hoogte) * double.Parse(breedte);
-        resultaat_string = string.Format("{0:F2}", resultaat);
+        resultaat_string = string.Format("{0:F2}", resultaat);  //reader klopt niet
 
         Console.WriteLine($"De oppervlakte is {resultaat_string} !");
         Console.ReadLine();
