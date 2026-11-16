@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Hoofdstuk 6.11/1.0.0": {
+        "runtime": {
+          "Hoofdstuk 6.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hoofdstuk 6.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
