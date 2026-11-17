@@ -1,0 +1,15 @@
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/bin/Debug/net10.0/Hoofdstuk 8.15
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/bin/Debug/net10.0/Hoofdstuk 8.15.deps.json
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/bin/Debug/net10.0/Hoofdstuk 8.15.runtimeconfig.json
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/bin/Debug/net10.0/Hoofdstuk 8.15.dll
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/bin/Debug/net10.0/Hoofdstuk 8.15.pdb
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.GeneratedMSBuildEditorConfig.editorconfig
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.AssemblyInfoInputs.cache
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.AssemblyInfo.cs
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.csproj.CoreCompileInputs.cache
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.sourcelink.json
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.dll
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/refint/Hoofdstuk 8.15.dll
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.pdb
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/Hoofdstuk 8.15.genruntimeconfig.cache
+/home/nekotiator/RiderProjects/C_sharp_basis/Hoofdstuk 8.15/obj/Debug/net10.0/ref/Hoofdstuk 8.15.dll
