@@ -16,16 +16,17 @@ class opdracht_7
             Console.WriteLine("Correct! Mijn geluksgetal is 5!");
             Console.ReadLine();
         }   
-        if (input == -1)
+        else if (input == -1)
         {
             Console.WriteLine($"{toets.Key} is niet juist. Voer een cijfer in");
             Console.ReadLine();
         }
-        if (5 < input && input > 5)
+        else if (5 < input && input > 5)
         {
             Console.WriteLine($"{input} is niet juist!");
             Console.ReadLine();
         }
+        
         
     }
 }
