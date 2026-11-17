@@ -25,10 +25,10 @@ class opdracht_13
             }
         }
         
-        String[] getallen = list.ToArray();     //veranderd de list in een array
+        String[] getallen = list.ToArray();   
 
         Console.WriteLine("\nhier zijn alle getallen: ");
-        foreach (string nummers in getallen)       //print alle namen van de array uit
+        foreach (string nummers in getallen)       
         {
             Console.WriteLine(nummers);
         }
