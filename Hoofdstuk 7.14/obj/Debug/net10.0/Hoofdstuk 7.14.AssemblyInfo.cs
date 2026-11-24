@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hoofdstuk 7.14")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f662e8ba6a0400d9a374461a90a0d7e551d6dce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c059f7163430383f74ead2bf0e0faab0528a2c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hoofdstuk 7.14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hoofdstuk 7.14")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
